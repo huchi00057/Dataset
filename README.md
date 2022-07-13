@@ -13,3 +13,10 @@ after finished, you can open it by the command：
 and it looks like that
 ![image](https://user-images.githubusercontent.com/46515944/178678038-ef99ca39-8ba9-49a5-a825-c3a2260d7bb0.png)
 
+Operatation-Labelimg
+====
+
+
+Something u must know clearly-LABEL TYPE
+====
+![image](https://user-images.githubusercontent.com/46515944/178678521-0872e247-b387-4eb4-8b89-114bf93f8c12.png)
